@@ -39,7 +39,7 @@ require __DIR__ . '/includes/header.php';
     <section class="note-banner">
         <span class="note-icon" aria-hidden="true">✳</span>
         
-        <div><strong>Made for learning, not for securing secrets.</strong><p>Classical ciphers are fascinating historical tools, but modern cryptography should be used to protect real information.</p></div>
+        <div><strong>Made for learning, not for securing secrets.</strong><p>This Ciphers are Created by Mark Guillermo From Irene B. Antonio College of Mindanao</p></div>
    
     </section>
 </main>
